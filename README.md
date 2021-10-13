@@ -22,6 +22,3 @@ But it has some new features like changing backgrounds with location change and 
 
 ## What's next for Climate
 More attractive, secure & featured chatting app about weather or Climate to keep those like minded people connected.
-
-Launch a mobile app of Climate using these features for easy access
-![image](https://user-images.githubusercontent.com/88198830/137173702-ba8cfade-5bb0-4ab5-8fec-11e78814b856.png)
